@@ -31,7 +31,19 @@ var questions =[{
 }, {
   question: "What is Aman's favourite book? ",
   answer: 'Antifragile'
-}]
+},
+ {
+  question: "What is Aman's favourite food? ",
+  answer: 'Burger'
+},
+ {
+  question: "What is Aman's favourite movie? ",
+  answer: 'Batman'
+},
+ {
+  question: "Who is Aman's favourite author ",
+  answer: 'Taleb'
+},]
 
 for(var i =0; i<questions.length; i++){
   var currentQuestion = questions[i]
